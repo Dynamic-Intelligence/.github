@@ -12,16 +12,14 @@ Our approach captures full position and orientation data at 30 FPS, providing th
 
 ---
 
-### Datasets
+### Sample Dataset
 
-We are releasing our first dataset for research use:
+**Egocentric Hand Pose Dataset** — A sample of 97 episodes across 10 manipulation tasks, comprising approximately 28,000 frames of 6-DoF hand pose trajectories. The dataset is formatted for LeRobot and compatible with standard imitation learning pipelines.
 
-**Egocentric Hand Pose Dataset** — 97 episodes across 10 manipulation tasks, comprising approximately 28,000 frames of 6-DoF hand pose trajectories. The dataset is formatted for LeRobot and compatible with standard imitation learning pipelines.
-
-[View Dataset](https://huggingface.co/datasets/DynamicIntelligence/humanoid-robots-training-dataset) · [Dataset Viewer](https://huggingface.co/spaces/DynamicIntelligence/dynamic_intelligence_sample_data)
+[View Sample](https://huggingface.co/datasets/DynamicIntelligence/humanoid-robots-training-dataset) · [Dataset Viewer](https://huggingface.co/spaces/DynamicIntelligence/dynamic_intelligence_sample_data)
 
 ---
 
-If you are interested in collaborating or have questions about our data, please reach out at shayan@dynamicintelligence.company.
+If you are interested in collaborating or licensing our full dataset, please reach out at shayan@dynamicintelligence.company.
 
 [dynamicintelligence.company](https://dynamicintelligence.company)
